@@ -15,7 +15,7 @@
   float: left;
   width: 150px;
   background-color: lightgrey;
-  border-right: solid 1px blue;
+  border-right: solid 2px lightblue;
 }
 
 li {
@@ -42,4 +42,12 @@ img {
 .panel-body li {
   list-style-type: disc;
   text-align: left;
+}
+
+.header li {
+  list-style-type: disc;
+}
+
+.bottomarticle {
+  padding: 100px;
 }
