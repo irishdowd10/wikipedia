@@ -1,0 +1,45 @@
+.row ul {
+  float: right;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+
+.sidebar {
+  float: left;
+  width: 150px;
+  background-color: lightgrey;
+  border-right: solid 1px blue;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+.sidebar strong {
+  text-decoration: underline;
+}
+
+.container {
+  float: left;
+}
+
+img {
+  margin-right: 10px;
+  float: left;
+}
+
+.second {
+  float: right;
+}
+.panel-body li {
+  list-style-type: disc;
+  text-align: left;
+}
